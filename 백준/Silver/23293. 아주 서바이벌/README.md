@@ -20,7 +20,7 @@
 
 <p>상민이는 아주 서바이벌의 서버 개발자다. 이 게임이 흥행하면서 부정행위를 저지르는 플레이어가 늘어나자, 보다 못한 상민이는 게임의 로그를 분석해 부정행위를 전부 찾아내기로 했다.</p>
 
-<p style="text-align: center;"><img alt="아주 서바이벌 지도" src="https://upload.acmicpc.net/d6c3457b-1d95-4a74-8fdf-5c7835af954a/-/preview/" style="width: 600px; height: 600px;"></p>
+<p style="text-align: center;"><img alt="아주 서바이벌 지도" src="" style="width: 600px; height: 600px;"></p>
 
 <p style="text-align: center;"><그림 1> 아주 서바이벌의 지도</p>
 
