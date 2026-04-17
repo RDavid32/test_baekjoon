@@ -1,5 +1,3 @@
-import sys
-input = sys.stdin.readline
 t, m = map(int,input().split())
 inventory = {i : [] for i in range(1, m+1)}
 location = [1 for _ in range(m+1)]
